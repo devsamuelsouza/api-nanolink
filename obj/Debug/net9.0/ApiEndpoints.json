@@ -1,0 +1,46 @@
+[
+  {
+    "ContainingType": "nanolink.Routes.Routes\u002B\u003C\u003Ec",
+    "Method": "\u003CRotas\u003Eb__0_1",
+    "RelativePath": "cadastrar-usuario",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "nanolink.Models.UserModel",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "nanolink.Routes.Routes\u002B\u003C\u003Ec",
+    "Method": "\u003CRotas\u003Eb__0_0",
+    "RelativePath": "user-login",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "nanolink.Models.UserModel",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
