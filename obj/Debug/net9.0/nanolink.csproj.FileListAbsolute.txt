@@ -47,3 +47,4 @@ E:\samuca_all\samuca\samuca_geral\program_samuca\.github\nanolink\obj\Debug\net9
 E:\samuca_all\samuca\samuca_geral\program_samuca\.github\nanolink\obj\Debug\net9.0\nanolink.pdb
 E:\samuca_all\samuca\samuca_geral\program_samuca\.github\nanolink\obj\Debug\net9.0\nanolink.genruntimeconfig.cache
 E:\samuca_all\samuca\samuca_geral\program_samuca\.github\nanolink\obj\Debug\net9.0\ref\nanolink.dll
+E:\samuca_all\samuca\samuca_geral\program_samuca\.github\nanolink\obj\Debug\net9.0\nanolink.sourcelink.json

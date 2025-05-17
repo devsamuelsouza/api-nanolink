@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nanolink")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4b6f81c9534a985723cdd3e4a5437fb7e9a596b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dcc21098119b1d1fcb3a8c465a037301961feef")]
 [assembly: System.Reflection.AssemblyProductAttribute("nanolink")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nanolink")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,7 +10,8 @@ namespace nanolink.Controllers
         private static readonly string Database = DotNetEnv.Env.GetString("DATABASE");
         private static readonly string User = DotNetEnv.Env.GetString("DB_USER");
         private static readonly string Password = DotNetEnv.Env.GetString("DB_PASSWORD");
-        private static readonly string UrlConnection = $"Server={Server};Database={Database};User={User};Password={Password};";
+        private static readonly string Port = DotNetEnv.Env.GetString("DB_PORT");
+        private static readonly string UrlConnection = $"Server={Server};Port={Port};Database={Database};User={User};Password={Password};";
 
         public static string AddUser(this UserModel user)
         {
