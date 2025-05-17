@@ -13,7 +13,8 @@ class Program
             config.AddPolicy("Default", policy =>
             {
                 policy.WithHeaders("Content-Type", "Authorization")
-                      .WithMethods("GET", "UPDATE", "DELETE", "POST");
+                      .WithMethods("GET", "UPDATE", "DELETE", "POST")
+                      .AllowAnyOrigin();
             });
         });
 
